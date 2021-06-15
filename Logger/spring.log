@@ -1,0 +1,15 @@
+2021-06-16 02:09:24,888 [INFO] com.ajith.logging.LoggingApplication [main] Starting LoggingApplication using Java 15.0.1 on DESKTOP-NPNE872 with PID 3208 (D:\java\springboot-workspace\Logging\target\classes started by HP in D:\java\springboot-workspace\Logging)
+2021-06-16 02:09:24,892 [INFO] com.ajith.logging.LoggingApplication [main] No active profile set, falling back to default profiles: default
+2021-06-16 02:09:25,828 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8081 (http)
+2021-06-16 02:09:25,838 [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2021-06-16 02:09:25,839 [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.46]
+2021-06-16 02:09:25,959 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2021-06-16 02:09:25,959 [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 996 ms
+2021-06-16 02:09:26,314 [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8081 (http) with context path ''
+2021-06-16 02:09:26,332 [INFO] com.ajith.logging.LoggingApplication [main] Started LoggingApplication in 1.878 seconds (JVM running for 2.763)
+2021-06-16 02:09:48,362 [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8081-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-16 02:09:48,362 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-06-16 02:09:48,363 [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8081-exec-1] Completed initialization in 1 ms
+2021-06-16 02:09:48,383 [ERROR] com.ajith.logging.resource.TestController [http-nio-8081-exec-1] The method helloMethod() throwing error
+2021-06-16 02:09:48,383 [TRACE] com.ajith.logging.resource.TestController [http-nio-8081-exec-1] Hi bye
+2021-06-16 02:10:37,348 [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(8)-127.0.0.1] Application shutdown requested.
